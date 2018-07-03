@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1530607591777
+Build-Jdk: 1.8.0_171
+Built-By: josemiguel
+Bundle-Activator: com.prueba.JosemyActivator
+Bundle-ManifestVersion: 2
+Bundle-Name: osgi-tutorial
+Bundle-SymbolicName: osgi-prueba
+Bundle-Vendor: Josemy
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.prueba;version="1.0.0"
+Import-Package: com.prueba
+Originally-Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-3.5.0.201709291849
